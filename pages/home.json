@@ -4,5 +4,37 @@
   "url": "/home",
   "params": {},
   "variables": [],
-  "children": []
+  "children": [
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "jyVuzl"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    }
+  ]
 }
