@@ -35,37 +35,6 @@
       "comments": "",
       "type": "core-component",
       "expressions": []
-    },
-    {
-      "name": "Table",
-      "nodeName": "bln-table",
-      "elementId": "",
-      "attributes": [
-        {
-          "property": "data-id",
-          "value": "TLi9ED"
-        },
-        {
-          "property": "core",
-          "value": ""
-        }
-      ],
-      "classList": [],
-      "conditionalClasses": [],
-      "conditionalStyles": [],
-      "contentType": "text",
-      "displayExpression": "",
-      "events": {},
-      "iterate": {
-        "array": "",
-        "variable": "",
-        "trackByIndex": false
-      },
-      "styles": [],
-      "children": [],
-      "comments": "",
-      "type": "core-component",
-      "expressions": []
     }
   ]
 }
